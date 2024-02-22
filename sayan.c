@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int main(){
+void main(){
     char str[100];
     char ch;
     int n;
@@ -60,5 +60,4 @@ ch=getch();
     }
 while(ch=='y' || ch=='Y');
 getch();
-return 0;
 }
