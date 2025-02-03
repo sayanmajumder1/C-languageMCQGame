@@ -1,4 +1,4 @@
-Here’s a well-structured **README.md** file for your **C Language MCQ Game** project:  
+
 
 ---
 
@@ -7,7 +7,6 @@ Here’s a well-structured **README.md** file for your **C Language MCQ Game** p
 > **Hii everyone! This is my first project.**  
 > A simple **MCQ (Multiple Choice Question) Game** built using **C programming language**.  
 
-![MCQ Game](assets/mcq_game_banner.png)  
 
 ---
 
@@ -20,13 +19,6 @@ Here’s a well-structured **README.md** file for your **C Language MCQ Game** p
 🟢 **Engaging and interactive quiz format**  
 🟢 **Scoring system to track performance**  
 
----
-
-## 🎥 **Demo**  
-
-![Game Screenshot](assets/game_screenshot.png)  
-
----
 
 ## 🚀 **How to Run the Game**  
 
@@ -66,13 +58,7 @@ Here’s a well-structured **README.md** file for your **C Language MCQ Game** p
 ✔ **Compiler:** GCC  
 ✔ **Platform:** Windows / Linux  
 
----
 
-## 📥 **Download The Game**  
-
-🔹 **[Download Executable File](https://search.app/iZVy5UxjDh15XE4G7)**  
-
----
 
 ## 💡 **Features**  
 
